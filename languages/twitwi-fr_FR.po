@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitwi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-17 10:23+0000\n"
+"PO-Revision-Date: 2016-10-17 17:36+0000\n"
+"Last-Translator: Xuan Luong Nguyen <dev.xuxu@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: widgets/connect.php:82
+msgid "Button label:"
+msgstr "Libellé du bouton"
+
+#: library/functions.php:6 library/functions.php:17
+msgid "Twitwi settings"
+msgstr "Réglages Twitwi"
+
+#. Name of the plugin
+#: library/functions.php:6
+msgid "Twitwi"
+msgstr "Twitwi"
+
+#: library/functions.php:25
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: library/functions.php:31
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: library/functions.php:37
+msgid "Include entities"
+msgstr "Include entities"
+
+#: library/functions.php:41 library/functions.php:75
+msgid "No"
+msgstr "No"
+
+#: library/functions.php:42 library/functions.php:74
+msgid "Yes"
+msgstr "Oui"
+
+#: library/functions.php:47
+msgid "Default user role when created"
+msgstr "Rôle par défaut de l'utilisateur à la création"
+
+#: library/functions.php:63
+msgid "Default domain name for the temporary email"
+msgstr "Nom de domaine par défaut de l'email temporaire"
+
+#: library/functions.php:66
+msgid ""
+"The Twitter API does not allow the recovery of the user's email address, a "
+"temporary email will be generated to create the WordPress account"
+msgstr ""
+"L'API Twitter n'autorise pas la récupération de l'adresse email de "
+"l'utilisateur, un email temporaire sera générée pour créer un compte "
+"WordPress"
+
+#: library/functions.php:70
+msgid "Receive an email when an user was created"
+msgstr "Recevoir un email après inscription d'un nouvel utilsateur"
+
+#: library/functions.php:80
+msgid "Redirect URL after login"
+msgstr "Adresse de redirection après identification"
+
+#: library/functions.php:84
+msgid "If empty, the person will be redirected to the previous page"
+msgstr "Si vide, l'utilisateur sera redirigé vers la page précédente"
+
+#: library/functions.php:88
+msgid "Redirect URL after logout"
+msgstr "Adresse de redirection après la déconnexion"
+
+#: library/functions.php:92
+msgid ""
+"If empty, the person will be redirected to the site root &laquo;/&raquo;"
+msgstr ""
+"Si vide, l'utilisateur sera redirigé vers la racine du site &laquo;/&raquo;"
+
+#: library/functions.php:98
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: library/functions.php:183 widgets/connect.php:72
+msgid "Login"
+msgstr "Se connecter"
+
+#: template/connect.php:30
+msgid "Connection with twitter failed"
+msgstr "La connexion avec Twitter a échoué"
+
+#: template/connect.php:35
+msgid "Error Receiving Request Token"
+msgstr "Une erreur dans l'obtention du jeton d'accès"
+
+#: template/connected.php:66
+msgid "A new user just subscribed with Twitwi."
+msgstr "Un nouvel utilisateur vient de s'inscrire avec Twitwi."
+
+#: template/connected.php:68
+msgid "Name"
+msgstr "Nom"
+
+#: template/connected.php:70
+msgid "New user registered"
+msgstr "Nouvel utilisateur inscrit"
+
+#: template/connected.php:166
+msgid "NO USER FOUND :/"
+msgstr "Aucun utilisateur ne correspond :/"
+
+#: template/connected.php:170
+msgid "ACCESS TOKEN INVALID"
+msgstr "Jeton d'accès invalide"
+
+#: widgets/connect.php:72
+msgid "Connect with Twitter"
+msgstr "Se connecter avec Twitter"
+
+#: widgets/connect.php:77
+msgid "Title:"
+msgstr "Titre :"
+
+#. Description of the plugin
+msgid "Twitwi, Another Twitter Connect for WordPress"
+msgstr "Twitwi, un autre moyen de se connecter avec Twitter à votre WordPress"
+
+#. URI of the plugin
+msgid ""
+"http://xuxu.fr/2013/12/30/twitwi-twitter-connect-basique-pour-wordpress/"
+msgstr ""
+"http://xuxu.fr/2013/12/30/twitwi-twitter-connect-basique-pour-wordpress/"
+
+#. Author of the plugin
+msgid "xuxu.fr"
+msgstr "xuxu.fr"
+
+#. Author URI of the plugin
+msgid "http://xuxu.fr"
+msgstr "http://xuxu.fr"
